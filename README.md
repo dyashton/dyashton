@@ -1,4 +1,8 @@
-### Hi there 👋
+### My name is Ashton Dy 
+ I am a first-year student currently attend the University of Tennessee at Knoxville. I am majoring in Computer Science. I am looking for opportunites to explore the field of computer science in any sector.
+ 
+ Contact me: ady@vols.utk.edu
+
 
 <!--
 **dyashton/dyashton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
