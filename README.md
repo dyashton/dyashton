@@ -4,7 +4,9 @@ ady@vols.utk.edu
 ##### Computer Science Major at The University of Tennessee '26
 
 Programming Languages: Javascript, C++, Python, Java, HTML, CSS, RISC-V Assembly
+
 Technologies & Frameworks: Mongodb, Express.js, React.js, node.js, Tensorflow, SASS, Framer motion
+
 Software & Tools: Windows, Fusion 360, Linux, Github, Microsoft Office, Google Suite, Docker, Blender 
 
 
