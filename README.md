@@ -1,7 +1,13 @@
-### My name is Ashton Dy 
- I am a first-year student currently attend the University of Tennessee at Knoxville. I am majoring in Computer Science. I am looking for opportunites to explore the field of computer science in any sector.
- 
- Contact me: ady@vols.utk.edu
+### Ashton Dy 
+ady@vols.utk.edu
+
+##### Computer Science Major at The University of Tennessee '26
+
+Programming Languages: Javascript, C++, Python, Java, HTML, CSS, RISC-V Assembly
+Technologies & Frameworks: Mongodb, Express.js, React.js, node.js, Tensorflow, SASS, Framer motion
+Software & Tools: Windows, Fusion 360, Linux, Github, Microsoft Office, Google Suite, Docker, Blender 
+
+
 
 
 <!--
