@@ -1,7 +1,7 @@
 ### Ashton Dy 
 ady@vols.utk.edu
 
-##### Computer Science Major at The University of Tennessee '26
+##### Computer Science Major at The University of Tennessee '27
 
 Programming Languages: Javascript, C++, Python, Java, HTML, CSS, RISC-V Assembly
 
