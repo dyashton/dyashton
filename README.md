@@ -79,11 +79,11 @@ Git • Linux • Docker • React • Node.js
 
 I am interested in opportunities involving
 
-- AI for Science
 - Computational Chemistry
 - Molecular Machine Learning
 - Research Software Engineering
 - Scientific Computing
+- Quantum Chemistry
 
 ---
 
