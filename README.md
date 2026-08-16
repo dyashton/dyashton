@@ -1,4 +1,4 @@
-# Hi, I'm Ashton Dy 👋
+# Hi, I'm Ashton Dy
 
 Computer Science student at the **University of Tennessee, Knoxville** focused on **AI for Scientific Discovery**, **Computational Chemistry**, and **Molecular Simulation**.
 
@@ -89,6 +89,6 @@ I am interested in opportunities involving
 
 ## Connect
 
-- LinkedIn: *(add link)*
-- Personal Website: *(add link)*
-- Email: *(add email)*
+- LinkedIn: *[add link](https://www.linkedin.com/in/ashton-dy/)*
+- Personal Website: *[add link](https://personalwebsite.ashtonblainedy.workers.dev/)*
+- Email: *ady@vols.utk.edu*
