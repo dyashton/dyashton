@@ -89,6 +89,6 @@ I am interested in opportunities involving
 
 ## Connect
 
-- LinkedIn: *[add link](https://www.linkedin.com/in/ashton-dy/)*
-- Personal Website: *[add link](https://personalwebsite.ashtonblainedy.workers.dev/)*
+- LinkedIn: *(https://www.linkedin.com/in/ashton-dy/)*
+- Personal Website: *(https://personalwebsite.ashtonblainedy.workers.dev/)*
 - Email: *ady@vols.utk.edu*
