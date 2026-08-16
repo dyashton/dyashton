@@ -1,31 +1,94 @@
-### Ashton Dy 
+# Hi, I'm Ashton Dy 👋
 
-Website: https://personal-websitev2-60c45d054200.herokuapp.com/
+Computer Science student at the **University of Tennessee, Knoxville** focused on **AI for Scientific Discovery**, **Computational Chemistry**, and **Molecular Simulation**.
 
-ady@vols.utk.edu
+My goal is to develop machine learning methods and scientific software that accelerate molecular design, protein engineering, and computational biology.
 
-##### Computer Science Major at The University of Tennessee '27
+---
 
-Programming Languages: Javascript, C++, Python, Java, HTML, CSS, RISC-V Assembly
+## Research Interests
 
-Technologies & Frameworks: Mongodb, Express.js, React.js, node.js, Tensorflow, SASS, Framer motion
+- 🧬 AI for Molecular & Protein Design
+- 🧪 Computational Chemistry
+- ⚛️ Molecular Dynamics Simulations
+- 🤖 Machine Learning for Scientific Discovery
+- 🧠 Geometric Deep Learning
+- 🔬 Scientific Computing & High-Performance Computing
 
-Software & Tools: Windows, Fusion 360, Linux, Github, Microsoft Office, Google Suite, Docker, Blender 
+---
 
+## Current Projects
 
+### TAMALE
+Toolkit for Accelerated Morphological Analysis of Lipid Ensembles
 
+A high-performance toolkit for analyzing molecular dynamics membrane simulations with support for:
 
-<!--
-**dyashton/dyashton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Membrane thickness
+- Area per lipid
+- Lipid density
+- Curvature analysis
+- Lipid order parameters
+- Vesicle analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Molecular Machine Learning
+
+Developing machine learning methods for
+
+- Molecular generation
+- Molecular property prediction
+- Protein representation learning
+- Scientific foundation models
+- Graph neural networks
+
+---
+
+## Technical Skills
+
+**Languages**
+
+Python • C++ • Java • JavaScript • TypeScript • SQL
+
+**Machine Learning**
+
+PyTorch • Scikit-learn • XGBoost • RDKit • Transformers
+
+**Scientific Software**
+
+GROMACS • VMD • CHARMM-GUI • NumPy • SciPy • MDAnalysis
+
+**Development**
+
+Git • Linux • Docker • React • Node.js
+
+---
+
+## Currently Learning
+
+- Geometric Deep Learning
+- Protein Foundation Models
+- Molecular Generative Models
+- Quantum Chemistry
+- Scientific AI
+
+---
+
+## Looking For
+
+I am interested in opportunities involving
+
+- AI for Science
+- Computational Chemistry
+- Molecular Machine Learning
+- Research Software Engineering
+- Scientific Computing
+
+---
+
+## Connect
+
+- LinkedIn: *(add link)*
+- Personal Website: *(add link)*
+- Email: *(add email)*
